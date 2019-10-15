@@ -1,0 +1,27 @@
+.splashText{
+    text-align: center;
+    font-family:cursive;
+}
+.date{
+    text-align:center;
+    font-family:cursive;
+}
+body{
+    background-color: #d29ee9;
+
+}
+.splashPhoto{
+transform: rotate(90deg);
+height: 80%;
+width: 80%;
+}
+
+.banner{
+    margin: 10px, auto;
+    width:50%;
+
+}
+
+.customNav{
+    color: #b4d1ba;
+}
